@@ -1,0 +1,28 @@
+header .container {
+    color: #AAA;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.well,
+.webwell {
+    background-color: #EEE;
+    border: none;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+    color: #333;
+}
+
+footer p {
+    color: #AAA;
+}
